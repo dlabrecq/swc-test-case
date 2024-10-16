@@ -1,2 +1,6 @@
-# swc-test-case
-@swc/jest TypeError with @swc/core@1.7.36
+## Testing
+```
+npm test
+```
+
+Note that tests will run with @swc/core v1.7.26 and earlier
